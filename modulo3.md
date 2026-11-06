@@ -1,5 +1,3 @@
-Módulo 3: Colaboração e revisão de alterações
-
 ## 1. Objetivo do módulo 
 
 O objetivo deste módulo é aprender como trabalhar em equipe utilizando o GitHub, compartilhando repositórios, convidando colaboradores e organizando alterações por meio de branches, pull requests, revisões e merges. 
