@@ -1,31 +1,32 @@
-# Mini-Curso-de-Git-e-Github
+# Mini-Curso-de-Git-e-GitHub
 
 ## Etapa 2 — Módulo 1: Conhecendo o GitHub
 
 ### O que é Git?
 
-Git é um sistema de controle de versão utilizado por programadores para acompanhar, organizar e controlar o desenvolvimento de softwares e no gerenciamento de projetos de programação. Sua principal função é acompanhar e registrar todas as alterações realizadas nos arquivos de um peojetos ao longo do tempo, permitindo que os desenvolvedores tenham controle sobre o histórico de desenvolvimento.
+Git é um sistema de controle de versão utilizado por programadores para acompanhar, organizar e controlar o desenvolvimento de softwares e o gerenciamento de projetos de programação. Sua principal função é acompanhar e registrar todas as alterações realizadas nos arquivos de um projeto ao longo do tempo, permitindo que os desenvolvedores tenham controle sobre o histórico de desenvolvimento.
 
-Com o Git, é possível identificar quais alterações foram feitas, quando aconteceram e quem foi o responsável por elas. Além dossp, caso ocorra algum erro durante o desenvolvimento, o programador ´pode consultar versões anteriores e recureprar partes do código que estavam funcionando corretamente.
+Com o Git, é possível identificar quais alterações foram feitas, quando aconteceram e quem foi o responsável por elas. Além disso, caso ocorra algum erro durante o desenvolvimento, o programador pode consultar versões anteriores e recuperar partes do código que estavam funcionando corretamente.
 
-O Git funciona diretamente no computador do usuário e pode ser utilizado em diferentes sistemas operacionais, como Windows, Linux e macOS. Atualmente, é uma das ferramentas mais utilizadas no desenvolvimento de software, tanto em projetos individuais quanto em qeuipes profissionais.
+O Git funciona diretamente no computador do usuário e pode ser utilizado em diferentes sistemas operacionais, como Windows, Linux e macOS. Atualmente, é uma das ferramentas mais utilizadas no desenvolvimento de software, tanto em projetos individuais quanto em equipes profissionais.
 
 <img width="474" height="474" alt="OIP" src="https://github.com/user-attachments/assets/5928013a-da91-4590-bad6-9271826dbfcb" />
 
+### O que é GitHub?
 
-### O que é Github?
+GitHub é uma plataforma online de hospedagem e gerenciamento de projetos que utilizam o sistema Git. Seu principal objetivo é permitir que desenvolvedores armazenem seus códigos na internet, compartilhem seus trabalhos e colaborem com outras pessoas no desenvolvimento de softwares.
 
-Github é uma plataforma online de hospedagem e gerenciamento de projetos que utilizam o sistema Git. Seu principal objetivo é permitir que desenvolvedores armazenem seus Códigos na internet, compartilhem seus trabalhos e colaborem com outras pessoas no desenvolvimento de softwares.
+A plataforma oferece diversas funcionalidades que facilitam a organização dos projetos. Entre elas estão os repositórios, que funcionam como espaços onde os arquivos e o histórico de alterações de um projeto ficam armazenados.
 
-A plataforma oferece diversas funcionalidades que facilitam a organização dos projetos. Entre elas estão os repositórios, que funcionam como espaços onde os arquivos e o histórico de alterações de um projeto ficam armazenados. O Github também permite que diferentes desenvolvedores trabalhem no mesmo projetos, mesmo estando em locais diferentes. Por meio de ferramentas como Pull Requests, é possível propor alterações no código, revisar contribuições de outros programadores e decidir quais modificações serão incorporadas ao projeto principal.
+O GitHub também permite que diferentes desenvolvedores trabalhem no mesmo projeto, mesmo estando em locais diferentes. Por meio de ferramentas como Pull Requests, é possível propor alterações no código, revisar contribuições de outros programadores e decidir quais modificações serão incorporadas ao projeto principal.
 
-Além disso, a plataforma permite documentar os projetos por meio de arquivos como o README, acompanhar problemas e erros e apresentar trabalhos para outras pessoas e empresas. Por esse motivo, o Github também é bastante utilizado como portifólio profissional, permitindo que programadores demonstrem seus conhecimentos e projetos.
+Além disso, a plataforma permite documentar os projetos por meio de arquivos como o README, acompanhar problemas e erros e apresentar trabalhos para outras pessoas e empresas. Por esse motivo, o GitHub também é bastante utilizado como portfólio profissional, permitindo que programadores demonstrem seus conhecimentos e projetos.
 
 <img width="474" height="480" alt="OIP (2)" src="https://github.com/user-attachments/assets/15cfed86-3329-4dc8-ba25-0b35f1a115c7" />
 
-### Qual a diferença entre Git e Gitub?
+### Qual é a diferença entre Git e GitHub?
 
-Embora sejam ferramentas que trabalham juntas e tenham nomes semelhantes, Git e Github possuem funções diferentes.
+Embora sejam ferramentas que trabalham juntas e tenham nomes semelhantes, Git e GitHub possuem funções diferentes.
 
 O Git é o sistema responsável por controlar as versões de um projeto. Ele registra as modificações feitas nos arquivos, mantém um histórico das alterações e permite recuperar versões anteriores. Seu funcionamento não depende de uma conexão com a internet, pois os registros podem ser realizados diretamente no computador.
 
@@ -43,13 +44,13 @@ Quando utilizamos o Git, o repositório também mantém o histórico de alteraç
 
 No GitHub, os repositórios podem ser classificados como públicos ou privados. A principal diferença entre eles está na permissão de acesso aos arquivos e códigos armazenados.
 
-Repositórios públicos:
+**Repositórios públicos:**
 
 São repositórios que podem ser acessados por qualquer pessoa na internet, permitindo que outros usuários visualizem os arquivos, acompanhem o desenvolvimento e utilizem o código conforme os termos da licença do projeto.
 
 São bastante utilizados para compartilhar projetos, desenvolver ferramentas de código aberto, apresentar trabalhos e construir um portfólio profissional.
 
-Repositórios privados:
+**Repositórios privados:**
 
 São repositórios cujo conteúdo fica restrito ao proprietário e às pessoas que recebem autorização para acessá-los. Dessa forma, usuários sem permissão não conseguem visualizar os arquivos e o código do projeto.
 
@@ -63,11 +64,11 @@ São utilizados principalmente quando o desenvolvedor ou uma empresa precisa man
 
 Imagine que um estudante de Ciência da Computação esteja desenvolvendo dois projetos diferentes:
 
-Exemplo 1 – Repositório público:
+**Exemplo 1 – Repositório público:**
 
 O estudante desenvolveu uma calculadora utilizando Python e deseja compartilhar seu trabalho com outras pessoas. Para isso, cria um repositório público no GitHub, onde qualquer pessoa pode visualizar o código, estudar seu funcionamento e acompanhar as atualizações.
 
-Exemplo 2 – Repositório privado:
+**Exemplo 2 – Repositório privado:**
 
 Agora imagine que o mesmo estudante esteja desenvolvendo um sistema para uma empresa, contendo informações e códigos que ainda não podem ser divulgados. Nesse caso, ele pode criar um repositório privado e permitir o acesso somente às pessoas autorizadas a trabalhar no projeto.
 
@@ -75,7 +76,7 @@ Esses exemplos mostram que a escolha entre um repositório público ou privado d
 
 ### Atividade de fixação
 
-1. O que é um repositório no Git e GitHub?
+**1. O que é um repositório no Git e GitHub?**
 
 a) Um programa utilizado exclusivamente para editar imagens.
 
@@ -85,7 +86,7 @@ c) Uma linguagem de programação utilizada para criar sites.
 
 d) Um sistema operacional utilizado por desenvolvedores.
 
-2. Qual é a principal diferença entre um repositório público e um privado?
+**2. Qual é a principal diferença entre um repositório público e um privado?**
 
 a) O público permite acesso a qualquer pessoa, enquanto o privado restringe o acesso a pessoas autorizadas.
 
@@ -95,6 +96,6 @@ c) O privado não permite armazenar códigos de programação.
 
 d) Não existe diferença entre os dois.
 
-3. Um estudante deseja apresentar seus projetos de programação para recrutadores e outros desenvolvedores. Qual tipo de repositório seria mais adequado? Explique sua escolha.
+**3.** Um estudante deseja apresentar seus projetos de programação para recrutadores e outros desenvolvedores. Qual tipo de repositório seria mais adequado? Explique sua escolha.
 
-**4. Uma empresa está desenvolvendo um sistema interno e não deseja disponibilizar seu código publicamente. Qual tipo de repositório deveria utilizar? Justifique sua resposta.
+**4.** Uma empresa está desenvolvendo um sistema interno e não deseja disponibilizar seu código publicamente. Qual tipo de repositório deveria utilizar? Justifique sua resposta.
