@@ -10,6 +10,6 @@
 **Passo 1** - Como criar uma conta no GitHub?
 
 1 - Primeiro pesquise **GitHub** no seu navegador do *Google* ou no *Edge* <br>
-!{Imagem de Exemplo](imagens/github.jpg)
+!{Imagem de Exemplo](imagens/github.png)
 
 Conferido profa. Eliane Ribeiro
