@@ -63,7 +63,7 @@ projeto, lembrando que essa parte será opcional.
 
 <img src="imagens/github10.png" alt="Imagem de Exemplo" width="400">
 
-
+***
 
 **Passo 3** - Oque é uma README?
 
@@ -95,10 +95,119 @@ Quando alguém acessa um repositório no GitHub, o conteúdo do README.md é exi
 
 <img src="imagens/github12.png" alt="Imagem de Exemplo" width="400">
 
+## Exemplo de Estrutura do README:
+
+<img src="imagens/github13.png" alt="Imagem de Exemplo" width="400">
+
+***
+
+**Passo 4** - Markdown no README:
+
+#Markdown, arquivos, commits e histórico
+
+Markdown é uma linguagem de marcação simples utilizada para formatar textos. No GitHub, ela é bastante utilizada em arquivos com extensão `.md`, como o README, para organizar informações e documentar projetos.
+
+Com Markdown, podemos criar títulos, subtítulos, listas, links, imagens, textos em negrito e muito mais.
+
+### Exemplos de formatação Markdown
+
+| Formatação | Código | Resultado |
+|---|---|---|
+| Título | `# Título` | Título principal |
+| Subtítulo | `## Subtítulo` | Subtítulo |
+| Negrito | `**Texto**` | **Texto** |
+| Itálico | `*Texto*` | *Texto* |
+| Lista | `- Item` | Lista de itens |
+| Link | `[GitHub](https://github.com)` | Link clicável |
+| Código | `` `print("Olá")` `` | Código formatado |
+
+O Markdown facilita a leitura e a organização das informações dentro de um repositório.
+
+
+***
+
+**Passo 5**: Criando um Arquivo pelo Navegador:
+
+O GitHub permite criar arquivos sem precisar instalar programas ou utilizar comandos no computador.
+
+### Passo a passo:
+
+1. Acesse o GitHub e entre na sua conta.
+2. Abra o repositório desejado.
+3. Clique em **Add file**.
+4. Selecione **Create new file**.
+5. Digite o nome do arquivo, por exemplo: `anotacoes.md`.
+6. Escreva o conteúdo no campo de edição.
+7. Clique em **Commit changes** para salvar.
+
+Depois desses passos, o arquivo estará disponível dentro do repositório.
+
+***
+
+**Passo 6**: Oque é um commit?
+
+Um commit é o registro de uma alteração realizada em um repositório GitHub.
+
+Ele permite acompanhar o desenvolvimento de um projeto, identificando quais mudanças foram realizadas, quando aconteceram e quem foi responsável por elas.
+
+Cada commit possui uma mensagem que descreve resumidamente a alteração feita.
+
+### Exemplos de mensagens de commit:
+
+- `Adiciona arquivo README`
+- `Atualiza documentação do projeto`
+- `Corrige informações do módulo 2`
+- `Adiciona imagens ao repositório`
+
+É importante utilizar mensagens claras para facilitar a identificação das alterações.
+
+
+***
+
+**Passo 7** - Como Registrar um Commit?
+
+Para registrar um commit diretamente pelo navegador, siga os passos:
+
+1. Entre no repositório.
+2. Abra o arquivo que deseja modificar.
+3. Clique no ícone de lápis para editar.
+4. Realize as alterações necessárias.
+5. Clique em **Commit changes**.
+6. Escreva uma mensagem explicando o que foi alterado.
+7. Confirme novamente em **Commit changes**.
+
+Pronto! A alteração será registrada no histórico do repositório.
 
 
 
+***
 
+
+**Passo 8** - Como consular o historico de alterações?
+
+O GitHub permite consultar todas as alterações registradas por meio dos commits.
+
+### Passo a passo:
+
+1. Acesse a página inicial do repositório.
+2. Localize a opção que mostra a quantidade de commits e clique nela.
+3. Consulte a lista de alterações realizadas.
+4. Observe o nome de quem realizou cada commit, a data e a mensagem registrada.
+5. Clique em um commit para visualizar quais partes dos arquivos foram modificadas.
+
+O histórico é importante porque permite acompanhar a evolução do projeto e identificar as contribuições de cada participante.
+
+## Atividade prática do módulo
+
+Agora que você aprendeu os conceitos, coloque-os em prática:
+
+1. Crie um arquivo chamado `anotacoes.md`.
+2. Utilize pelo menos três recursos de formatação Markdown.
+3. Faça uma alteração no arquivo.
+4. Registre um commit com uma mensagem clara.
+5. Acesse o histórico e identifique o commit realizado.
+
+**Conclusão:** Neste módulo, aprendemos a utilizar Markdown, criar e editar arquivos pelo navegador, registrar commits e consultar o histórico de alterações. Esses conhecimentos são fundamentais para organizar e acompanhar projetos no GitHub.
 
 
 
