@@ -40,7 +40,7 @@
 *3* - Clique dentro do input aonde está escrito **Repository name** e de um nome para o projeto que deseja. Depois de dar o nome clique em **Description** aonde você dará uma descrição para seu
 projeto, lembrando que essa parte será opcional.
 
-<img src="imagens/github6.png" alt="Imagem de Exemplo" width="400">
+<img src="imagens/github66.png" alt="Imagem de Exemplo" width="400">
 
 *4* - Indo para baixo, você vai se deparar com a 2 sessão **Configuration**, que seria a configuração de seu projeto.
 
