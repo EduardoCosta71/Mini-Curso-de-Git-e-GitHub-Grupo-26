@@ -3,3 +3,5 @@
 
 
 # o que é git e github?
+
+Conferido profa. Eliane Ribeiro
