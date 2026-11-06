@@ -26,7 +26,11 @@ O GitHub permite adicionar outras pessoas a um repositório para que elas possam
 
 7. Selecione a pessoa e envie o convite. 
 
-8. O colaborador deverá aceitar o convite para ter acesso ao repositório. 
+8. O colaborador deverá aceitar o convite para ter acesso ao repositório.
+
+<img width="1917" height="1077" alt="Captura de tela 2026-11-06 093801" src="https://github.com/user-attachments/assets/a16bca39-1ee9-4659-9e3c-b7628f375cf5" />
+
+<img width="1919" height="1080" alt="Captura de tela 2026-11-06 094114" src="https://github.com/user-attachments/assets/5d26d9b3-2872-4130-9fed-485d0d4fc3ad" />
 
 ## 3. Como compartilhar um repositório
 
@@ -41,6 +45,10 @@ Importante: Em repositórios públicos, qualquer pessoa pode visualizar o conte�
 3. Copie o endereço HTTPS do repositório. 
 
 4. Envie o link para a pessoa com quem deseja compartilhar. 
+
+
+<img width="972" height="462" alt="Captura de tela 2026-11-06 094613" src="https://github.com/user-attachments/assets/dde96aa8-4a23-43bf-adbf-d4b554cbae26" />
+<img width="1912" height="1080" alt="Captura de tela 2026-11-06 094316" src="https://github.com/user-attachments/assets/d31403db-812e-4400-a23d-018eaca198f3" />
 
 Exemplo: https://github.com/usuario/nome-do-repositorio
 
@@ -59,6 +67,9 @@ As branches são importantes porque permitem que diferentes pessoas trabalhem em
 4. Clique nesse botão.
 5. Digite o nome da nova branch, por exemplo, teste.
 6. Clique na opção Create branch: teste from main.
+<img width="1914" height="1074" alt="Captura de tela 2026-11-06 095354" src="https://github.com/user-attachments/assets/55a0561e-48b1-49f5-bd2a-ff7e6cc579f6" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-06 095437" src="https://github.com/user-attachments/assets/35821c61-d01d-47ec-bff3-3fa9abfd727e" />
+
 
 A nova branch foi criada com sucesso.
 
@@ -71,6 +82,9 @@ A nova branch foi criada com sucesso.
 6. Escreva uma mensagem explicando a alteração, por exemplo: Adiciona nova funcionalidade.
 7. Confirme o commit.
 8. A alteração foi salva diretamente na branch teste, sem modificar a branch principal main.
+
+<img width="1920" height="1080" alt="Captura de tela 2026-11-06 095820" src="https://github.com/user-attachments/assets/76eba1b8-2a7a-45a6-8678-097a3555f447" />
+
 
 ## 5. Realizando uma alteração na branch 
 
@@ -121,7 +135,11 @@ Para que serve?
 
 8. Adicione um título e uma descrição explicando a alteração. 
 
-9. Clique novamente em Create pull request. 
+9. Clique novamente em Create pull request.
+
+    <img width="1913" height="1074" alt="Captura de tela 2026-11-06 095955" src="https://github.com/user-attachments/assets/3465c96f-e95d-4eac-b50d-55788a88ed6f" />
+<img width="1917" height="1062" alt="Captura de tela 2026-11-06 100134" src="https://github.com/user-attachments/assets/0650e707-9bba-4ae4-ac45-f2784ad73ca5" />
+
 
 ## 8. Revisão de alterações 
 
@@ -137,6 +155,9 @@ A revisão de alterações é o processo de analisar o código enviado em um Pul
 
 -Aprovar ou solicitar alterações.
 
+<img width="1920" height="1080" alt="Captura de tela 2026-11-06 100430" src="https://github.com/user-attachments/assets/ef23d229-1705-470d-8d33-8f930a0e7f76" />
+
+
 ## 9. O que é Merge? 
 
 Merge é o processo de unir as alterações de uma branch em outra. 
@@ -151,7 +172,11 @@ realizando o merge
 
 3. Clique em Merge pull request. 
 
-4. Confirme em Confirm merge. 
+4. Confirme em Confirm merge.
+
+   <img width="1911" height="1075" alt="Captura de tela 2026-11-06 100556" src="https://github.com/user-attachments/assets/278a87da-b32f-462a-9d4a-cc1ee431b73d" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-06 100610" src="https://github.com/user-attachments/assets/831beee6-467d-487e-b497-df0fa802a5bc" />
+
 
 ## 10. Desafio prático
 
