@@ -65,6 +65,40 @@ projeto, lembrando que essa parte será opcional.
 
 
 
+**Passo 3** - Oque é uma README?
+
+ - O **README** é um arquivo utilizado para apresentar e explicar um projeto dentro de um repositório do GitHub. Ele funciona como uma documentação inicial, permitindo que outras pessoas entendam o objetivo do projeto, seu funcionamento e como utilizá-lo.
+
+*O arquivo geralmente possui o nome README.md, em que:*
+
+- README: significa, em inglês, algo como "leia-me".
+- .md: indica que o arquivo utiliza a linguagem Markdown, usada para formatar textos.
+  
+   **Para que serve um README?**
+  
+O README pode ser utilizado para:
+
+'1. Apresentar o projeto e seus objetivos.
+
+'2. Explicar as funcionalidades disponíveis.
+
+'3. Mostrar como utilizar ou executar o projeto.
+
+'4. Informar as tecnologias utilizadas.
+
+'5. Apresentar os integrantes e colaboradores.
+
+'6. Disponibilizar links e imagens relacionados ao projeto.
+
+ ## **Como funciona?**
+Quando alguém acessa um repositório no GitHub, o conteúdo do README.md é exibido automaticamente na página inicial, facilitando a compreensão do projeto sem precisar abrir cada arquivo.
+
+<img src="imagens/github12.png" alt="Imagem de Exemplo" width="400">
+
+
+
+
+
 
 
 
