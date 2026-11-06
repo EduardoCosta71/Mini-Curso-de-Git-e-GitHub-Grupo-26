@@ -30,7 +30,38 @@
 
 **Obs:** Na imagem de Exemplo foi marcado de roxo para indicar.
 
-<img src="imagens/github5.png" alt="Imagem de Exemplo" width="500"> <img src="imagens/github6.png" alt="Imagem de Exemplo" width="500">
+<img src="imagens/github5.png" alt="Imagem de Exemplo" width="400">   <img src="imagens/github6.png" alt="Imagem de Exemplo" width="400">
+
+*2* - Logo após você clicar em criar em **New repository**, vai abrir uma tela para você com a criação do repositorio.
+
+<img src="imagens/github55.png" alt="Imagem de Exemplo" width="400">
+
+
+*3* - Clique dentro do input aonde está escrito **Repository name** e de um nome para o projeto que deseja. Depois de dar o nome clique em **Description** aonde você dará uma descrição para seu
+projeto, lembrando que essa parte será opcional.
+
+<img src="imagens/github6.png" alt="Imagem de Exemplo" width="400">
+
+*4* - Indo para baixo, você vai se deparar com a 2 sessão **Configuration**, que seria a configuração de seu projeto.
+
+<img src="imagens/github7.png" alt="Imagem de Exemplo" width="400">
+
+*5* - Na opção **Choose visibility**, terá **Public** ou **Private**, se você prefere que outras pessoas possam ver seu código deixe públic se não pode deixar privado que só você terá acesso.
+
+<img src="imagens/github8.png" alt="Imagem de Exemplo" width="400">
+
+*6* - Em **Add README** terá as opções de **On e Off**, o README básicamente serve para você adicionar uma breve descrição sobre seu projeto, quais tecnologias, modo de rodar etc. Recomendo deixar ele **On** para ser adicionado essa descrição do seu projeto.
+
+<img src="imagens/github9.png" alt="Imagem de Exemplo" width="400">
+
+*7* - A opção **Add .gitignore** será colocada na hora de produção do seu projeto, essa opção é de esconder alguma parte do seu projeto que você não quer que entre no seu GitHub, e com essa opção você pode ocultar.
+
+
+*8* - Logo quando for preenchida todas as opções, clique em **Create repository**.
+
+#### Pronto agora você aprendeu a criar um arquivo no Github! [Acesse o GitHub por este Link](https://github.com/)
+
+<img src="imagens/github10.png" alt="Imagem de Exemplo" width="400">
 
 
 
